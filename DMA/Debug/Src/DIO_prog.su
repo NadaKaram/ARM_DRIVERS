@@ -1,0 +1,3 @@
+DIO_prog.c:12:6:M_GPIO_void_SetPinDir	24	static
+DIO_prog.c:56:6:M_GPIO_void_SetPinValue	24	static
+DIO_prog.c:93:6:M_GPIO_void_GetPinValue	16	static

@@ -1,0 +1,4 @@
+SPI_prog.c:14:6:M_SPI_void_MasterInit	8	static
+SPI_prog.c:34:6:M_SPI_void_MasterTransmit	16	static
+SPI_prog.c:53:6:M_SPI_void_SlaveInit	8	static
+SPI_prog.c:67:4:M_SPI_void_SlaveReceive	8	static
